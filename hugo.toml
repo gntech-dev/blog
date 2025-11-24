@@ -6,3 +6,19 @@ theme = 'PaperMod'
 [[menu.main]]
 name = "About"
 url = "/about/"
+
+[[menu.main]]
+name = "Tutorials"
+url = "/tutorials/"
+
+[[menu.main]]
+name = "Reviews"
+url = "/reviews/"
+
+[[menu.main]]
+name = "News"
+url = "/news/"
+
+[[menu.main]]
+name = "Projects"
+url = "/projects/"
