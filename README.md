@@ -1,0 +1,2 @@
+# blog
+Gntech Blog
