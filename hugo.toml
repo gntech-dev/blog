@@ -2,3 +2,7 @@ baseURL = 'https://blog.gntech.me'
 languageCode = 'en-us'
 title = 'Gntech Blog'
 theme = 'PaperMod'
+
+[[menu.main]]
+name = "About"
+url = "/about/"
