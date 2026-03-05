@@ -36,3 +36,10 @@ If you're interested in **homelabs, Linux, virtualization, networking, or infras
 - Homelab architecture and experiments  
 - Troubleshooting notes and solutions  
 - Infrastructure and networking projects  
+
+## Connect with Me
+
+- [GitHub](https://github.com/gntech-dev)
+- [LinkedIn](https://www.linkedin.com/in/gnolascohernandez)
+
+Feel free to reach out for collaborations or discussions on tech topics!
