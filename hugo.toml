@@ -22,3 +22,12 @@ url = "/news/"
 [[menu.main]]
 name = "Projects"
 url = "/projects/"
+
+[params]
+description = "Technical notes, homelab guides, networking, Linux, Docker, MikroTik, and infrastructure tutorials by GnTech."
+images = ["/images/gntech-blog-cover.svg"]
+
+[params.homeInfoParams]
+Title = "Gntech Blog"
+Content = "Technical notes, homelab guides, networking, Linux, Docker, MikroTik, and infrastructure tutorials by GnTech."
+

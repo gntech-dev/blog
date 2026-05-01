@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Gntech Blog</title>
+  <desc id="desc">Technical notes, homelab guides, networking, Linux, Docker, MikroTik, and infrastructure tutorials by GnTech.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0f172a"/>
+      <stop offset="0.55" stop-color="#111827"/>
+      <stop offset="1" stop-color="#064e3b"/>
+    </linearGradient>
+    <radialGradient id="glow" cx="72%" cy="28%" r="55%">
+      <stop offset="0" stop-color="#22c55e" stop-opacity="0.45"/>
+      <stop offset="1" stop-color="#22c55e" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <rect width="1200" height="630" fill="url(#glow)"/>
+  <g fill="none" stroke="#22c55e" stroke-opacity="0.18" stroke-width="2">
+    <path d="M80 455h1040"/>
+    <path d="M80 500h1040"/>
+    <path d="M170 410v120M265 410v120M360 410v120M455 410v120M550 410v120M645 410v120M740 410v120M835 410v120M930 410v120M1025 410v120"/>
+  </g>
+  <text x="86" y="170" fill="#e5e7eb" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="78" font-weight="800">Gntech Blog</text>
+  <text x="90" y="235" fill="#86efac" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="32" font-weight="600">Homelab • Networking • Linux • Docker • MikroTik</text>
+  <text x="90" y="330" fill="#d1d5db" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30">Technical notes and infrastructure tutorials</text>
+  <text x="90" y="380" fill="#9ca3af" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="24">blog.gntech.me</text>
+</svg>
