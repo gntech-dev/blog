@@ -1,7 +1,7 @@
 baseURL = 'https://blog.gntech.me'
 languageCode = 'en-us'
 title = 'Gntech Blog'
-theme = 'PaperMod'
+theme = 'stack'
 
 [[menu.main]]
 name = "About"
