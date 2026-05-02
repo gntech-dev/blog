@@ -3,6 +3,9 @@ languageCode = 'en-us'
 title = 'Gntech Blog'
 theme = 'stack'
 
+[params.assets]
+customCSS = [ "css/custom.css" ]
+
 [[menu.main]]
 name = "About"
 url = "/about/"

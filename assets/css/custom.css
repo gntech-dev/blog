@@ -1,0 +1,60 @@
+/* GnTech Stack Custom CSS - Modern Futuristic Basics */
+
+:root {
+  --primary-color: #08f;
+  --accent-color: #6c24b6;
+  --bg-gradient-dark: linear-gradient(135deg,#161a1f 0%, #252d3a 100%);
+  --card-bg: #1b222b;
+  --card-glow: 0 2px 20px 1px #1ebef6aa;
+}
+
+body, .main {
+  background: var(--bg-gradient-dark) !important;
+  color: #e6eaf3 !important;
+  font-family: 'Inter', 'IBM Plex Sans', Arial, sans-serif !important;
+}
+
+h1, h2, h3, .site-title, .section-title {
+  font-family: 'Space Grotesk', 'Orbitron', 'Arial Rounded MT Bold', Arial, sans-serif !important;
+  letter-spacing: 0.02em;
+  color: var(--primary-color);
+}
+
+nav, .site-navbar {
+  background: rgba(17,24,39,0.97) !important;
+  box-shadow: 0 0 18px 0 #00ABF0cc;
+}
+
+.card, .post-entry, .post-list > li {
+  background: var(--card-bg) !important;
+  border-radius: 18px !important;
+  box-shadow: var(--card-glow);
+  border: 1.5px solid #2a3555cc;
+}
+
+a, .menu-link {
+  color: var(--accent-color) !important;
+  transition: color 0.2s, box-shadow 0.2s;
+}
+
+a:hover, .menu-link:hover {
+  color: #00fff7 !important;
+  text-shadow: 0 0 4px #0ef,0 0 16px #0ef5;
+}
+
+pre, code, .highlight {
+  background: #232942 !important;
+  color: #60eaff !important;
+  font-family: 'JetBrains Mono', 'Fira Mono', monospace !important;
+  border-radius: 6px;
+}
+
+.tag, .taxonomy-term {
+  background: #21225c;
+  color: #00fff7;
+  border-radius: 14px;
+  padding: 0.14em 0.8em;
+  font-size: 90%;
+  margin: 0 0.2em;
+  box-shadow: 0 1px 6px 0 #1ebef677;
+}
